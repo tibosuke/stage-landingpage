@@ -244,7 +244,7 @@ iframe{
 
 .section-grey{
 	background-color: #eef0f1;
-	padding:90px 0;
+	padding:40px 0;
 }
 
 .section-grey.small-padding, .section-white.small-padding{
@@ -1643,7 +1643,7 @@ p.contact_success_box{
 }
 
 .section-grey.sponsors-padding {
-    padding: 50px 0;
+    padding: 30px 0;
 }
 
 .section-grey.sponsors-padding-small {
@@ -1989,4 +1989,32 @@ p.testimonials-text {
 .ma{
 height: 2px;
 background-color: #ffffff;
+}
+
+.grey{
+	background-color: #eef0f1;
+}
+
+.aoipicture{
+	width: 450px;
+	margin-left: 5px;
+}
+
+.aoiname{
+	color: white;
+	margin-top: -95px;
+	margin-bottom: 170px;
+	margin-left: -28px;
+	font-size: 16px;
+  text-decoration:underline;
+}
+
+.aoiwho{
+	color: white;
+	margin-top: -160px;
+	margin-bottom: 5px;
+		margin-bottom:z60px;
+	margin-left: -5px;
+	font-size: 14px;
+	text-align: center;
 }
