@@ -2051,3 +2051,25 @@ background-color: #ffffff;
 	margin-top: 27px;
 
 }
+
+.form_content{
+	text-align: left;
+	margin-left: 150px;
+}
+
+.name_input{
+	width: 320px;
+}
+
+.input_content{
+	border: #cccccc solid 1px;
+	border-radius: 0px;
+	width: 320px;
+	height: 150px;
+	margin-bottom: 20px;
+	color: black;
+}
+
+.clear {
+    clear:both;　/*floatの解除、ここがポイント*/
+}
